@@ -78,6 +78,11 @@ h1{
     margin-left: 5%;
     background-image: url(images/shapes/shape-8.png);
     background-repeat: no-repeat;
+    justify-content: space-evenly;
+}
+.my-mission .mission-item1:hover{
+    transform: scale(1.2);
+    transition: scale 2s ;
 }
 
 .my-mission h2 {
